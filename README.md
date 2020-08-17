@@ -26,6 +26,9 @@ visualizing this:
 3.  It is an error if, for example, a provided city name does not exist in the lat long list.
     then throw a LatLongException. this is not the only possible error.
 
-5.  You may need to make some assumptions, try to make these explicit.
+4.  You may need to make some assumptions, try to make these explicit.
 
-4.  If you can write unit tests please include them in your submission!  
+5.  If you can write unit tests please include them in your submission!  
+
+**SUBMIT COMPLETED CODE BY EMAIL TO Devgroupssnc@ifdsgroup.com AS AN ATTACHED ZIP WITHOUT BINARIES.**
+**PLEASE NOTE YOUR FULL NAME IN THE BODY OF THE EMAIL.**
